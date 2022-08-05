@@ -6,4 +6,4 @@ spring:
         config:
             server:
                 git:
-                    url:
+                    url: https://github.com/illumis-git/CloudConfigDemo.git
